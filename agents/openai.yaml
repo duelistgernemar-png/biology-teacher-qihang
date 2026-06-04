@@ -1,0 +1,7 @@
+interface:
+  display_name: "北京启航杯生物模拟评委"
+  short_description: "按启航杯高中生物标准模拟打分并给改进建议。"
+  default_prompt: "Use $biologyqihang to evaluate my high school biology Qihang Cup lesson design and give judge-style scores and revision advice."
+
+policy:
+  allow_implicit_invocation: true
